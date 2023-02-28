@@ -13,6 +13,7 @@ font-family: 'Roboto', sans-serif; */
 body{
     font-family: 'Roboto', sans-serif;
     width: 1366px;
+    margin: 0 auto;
 
 }
 nav img:first-child{
